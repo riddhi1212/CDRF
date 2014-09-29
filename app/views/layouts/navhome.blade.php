@@ -3,9 +3,9 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="author" content="Riddhi Mittal">
-        <meta name="description" content="This website provides information on donation centers for Assam and Meghalaya flood victims.">
+        <meta name="description" content="The Citizens Disaster Response Force is a platform that enables those to want to help with know-how about who needs help, and how to help them. It caters to disasters like the Kashmir Floods 2014 or the Assam and Meghalaya Floods 2014.">
         <meta name="keywords" content="assam floods, assam floods 2014, donate to assam, donate to meghalaya">
-        <title>Assam and Meghalaya Floods 2014</title>
+        <title>Citizens Disaster Reponse Force, India</title>
         {{ HTML::style('//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'); }}
         {{ HTML::style('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'); }}
         {{ HTML::style("//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.1/css/bootstrapValidator.min.css"); }}
